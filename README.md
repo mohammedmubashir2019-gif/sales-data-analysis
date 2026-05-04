@@ -24,3 +24,8 @@ This project analyzes retail sales data using Python.
 
 ## Author
 Mohammed Mubashir Ahmed 
+
+## How to Run
+1. Open the notebook in Google Colab
+2. Upload the dataset (SampleSuperstore.csv)
+3. Run all cells step by step
